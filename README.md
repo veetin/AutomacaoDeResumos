@@ -1,0 +1,1 @@
+Fiz esse projeto para me ajudar a estudar as matérias da faculdade, ele é feito em python e extrai os textos de slides que os professores passam nas aulas e com isso eu consigo, junto ao ChatGPT, fazer resumos de todas as matéria passadas, baseado no texto original.
